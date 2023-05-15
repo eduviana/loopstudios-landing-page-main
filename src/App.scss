@@ -12,7 +12,12 @@
   .hero {
     grid-area: hero;
     height: 90vh;
-    background-image: url(./assets/images/mobile/image-hero.jpg);
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0.3),
+        rgba(0, 0, 0, 0.3)
+      ),
+      url(./assets/images/mobile/image-hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -87,6 +92,7 @@
     }
 
     .title {
+      width: 94%;
       border: 1px solid var(--white);
       padding: 2rem 3rem 2rem 2rem;
       color: var(--white);
@@ -95,6 +101,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      margin: 0 auto;
     }
   }
 
@@ -269,7 +276,13 @@
 @media (min-width: 1440px) {
   .grid {
     .hero {
-      background-image: url(./assets/images/desktop/image-hero.jpg);
+      height: 86vh;
+      background-image: linear-gradient(
+          to right,
+          rgba(0, 0, 0, 0.4),
+          rgba(0, 0, 0, 0.4)
+        ),
+        url(./assets/images/desktop/image-hero.jpg);
       gap: 10rem;
 
       .title {
@@ -277,7 +290,7 @@
         width: 540px;
         margin: 0;
 
-        h1{
+        h1 {
           font-weight: 300;
         }
       }
