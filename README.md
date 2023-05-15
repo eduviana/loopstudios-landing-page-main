@@ -18,8 +18,10 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size (375px and 1440px)
+- View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+<strong>The page is made only for the measures 375px and 1440px!</strong>
 
 ### Screenshot
 
@@ -28,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/eduviana/loopstudios-landing-page-main)
+- Live Site URL: (https://loopstudios-landing-page-main-dfo1b44t0-eduviana.vercel.app/)
 
 ## My process
 
@@ -46,5 +48,3 @@ Users should be able to:
 
 - Github - (https://github.com/eduviana)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/eduviana)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
