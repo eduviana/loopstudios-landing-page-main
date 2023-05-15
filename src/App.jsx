@@ -113,16 +113,16 @@ function App() {
               <source media="(min-width: 1440px)" srcSet={desktopDeepEarth} />
               <img src={mobileDeepEarth} alt="deepEarth" />
             </picture>
-            <span>
+            <h4>
               DEEP <br /> EARTH
-            </span>
+            </h4>
           </article>
           <article className="item item-2">
             <picture>
               <source media="(min-width: 1440px)" srcSet={desktopNightArcade} />
               <img src={mobileNightArcade} alt="nightArcade" />
             </picture>
-            <span>NIGHT <br /> ARCADE</span>
+            <h4>NIGHT <br /> ARCADE</h4>
           </article>
           <article className="item item-3">
             <picture>
@@ -132,16 +132,16 @@ function App() {
               />
               <img src={mobileSoccerTeamVr} alt="soccerTeamVr" />
             </picture>
-            <span>SOCCER <br /> TEAM VR</span>
+            <h4>SOCCER <br /> TEAM VR</h4>
           </article>
           <article className="item item-4">
             <picture>
               <source media="(min-width: 1440px)" srcSet={desktopTheGrid} />
               <img src={mobileTheGrid} alt="theGrid" />
             </picture>
-            <span>
+            <h4>
               THE <br /> GRID
-            </span>
+            </h4>
           </article>
           <article className="item item-5">
             <picture>
@@ -151,7 +151,7 @@ function App() {
               />
               <img src={mobileFromUpAboveVr} alt="fromUpAboveVr" />
             </picture>
-            <span>FROM UP <br /> ABOVE VR</span>
+            <h4>FROM UP <br /> ABOVE VR</h4>
           </article>
           <article className="item item-6">
             <picture>
@@ -161,7 +161,7 @@ function App() {
               />
               <img src={mobilePocketBorealis} alt="pocketBorealis" />
             </picture>
-            <span>POCKET <br /> BOREALIS</span>
+            <h4>POCKET <br /> BOREALIS</h4>
           </article>
           <article className="item item-7">
             <picture>
@@ -171,7 +171,7 @@ function App() {
               />
               <img src={mobileTheCuriosity} alt="theCuriosity" />
             </picture>
-            <span>THE <br /> CURIOSITY</span>
+            <h4>THE <br /> CURIOSITY</h4>
           </article>
           <article className="item item-8">
             <picture>
@@ -181,7 +181,7 @@ function App() {
               />
               <img src={mobileMakeItFisheye} alt="makeItFisheye" />
             </picture>
-            <span>MAKE IT <br /> FISHEYE</span>
+            <h4>MAKE IT <br /> FISHEYE</h4>
           </article>
           <button className="button">SEE ALL</button>
         </section>
