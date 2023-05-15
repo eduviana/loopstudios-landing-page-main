@@ -31,7 +31,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/eduviana/loopstudios-landing-page-main)
-- Live Site URL: (https://loopstudios-landing-page-main-ly8aapvhr-eduviana.vercel.app/)
+- Live Site URL: (https://loopstudios-landing-page-main-r8k6s4vrh-eduviana.vercel.app/)
+
 
 ## My process
 
